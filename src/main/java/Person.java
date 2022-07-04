@@ -3,7 +3,7 @@ public class Person {
     protected final String name;
     protected final String surname;
     protected int age;
-    public String address;
+    protected String address;
 
     public Person(String name, String surname) {
         this.name = name;
